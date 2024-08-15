@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A1185161801%2C%22first_name%22%3A%22Long%22%2C%22last_name%22%3A%22Trading%22%2C%22username%22%3A%22longhoang2k2%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=5770932312104519079&chat_type=sender&auth_date=1723255125&hash=c9d6dca03c0dfeb7af7605f58698eabae4925502b3ec144529ce5162833e9d9d
